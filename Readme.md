@@ -1,6 +1,6 @@
 
 This repository hosts the code for
-the [Connecticut chapter](ww2.amstat.org/chapters/Connecticut/) of the
+the [Connecticut chapter](http://ww2.amstat.org/chapters/Connecticut/) of the
 American Statistical Association. We are a community of statisticians
 promoting the use and appreciation of statistics and its applications,
 and to facilitate interactions among all persons having an interest in
