@@ -19,4 +19,3 @@ Our current officers are:
 * Joli Holmes, Student Representative (Wesleyan)
 * Henry Linder, Student Representative (UConn); webmaster
 
-
