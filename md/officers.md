@@ -4,17 +4,17 @@ title: Officers
 
 # Officers
 
-* Birol Emir, President
-* Jennifer McGinniss, Vice President
-* Michael Kane, Treasurer
-* Valerie Nazzaro, Secretary
-* Neal Thomas, Chapter Representative
-* Jonathan French, Past President
-* Briana Cameron, Student
+* [Birol Emir](mailto:Birol.Emir@pfizer.com), President
+* [Jennifer McGinniss](mailto:jennifer.mcginniss@boehringer-ingelheim.com), Vice President
+* [Michael Kane](mailto:michael.kane@yale.edu), Treasurer
+* [Valerie Nazzaro](mailto:vnazzaro@wesleyan.edu), Secretary
+* [Neal Thomas](mailto:neal.thomas@pfizer.com), Chapter Representative
+* [Jonathan French](mailto:jonathanf@metrumrg.com), Past President
+* [Briana Cameron](mailto:briana.cameron@yale.edu), Student
   Representative (Yale)
-* Joli Holmes, Student Representative
+* [Joli Holmes](mailto:jholmes@wesleyan.edu), Student Representative
   (Wesleyan)
-* Henry Linder, Student
+* [Henry Linder](mailto:m.henry.linder@uconn.edu), Student
   Representative (UConn)
 
 A list of past officers is available [here](pastofficers.html).
@@ -84,5 +84,5 @@ Mimi Kim
 
 ## Webmaster
 
-Henry Linder
+This website is a [Henry Linder](http://mhlinder.com) jaunt.
 

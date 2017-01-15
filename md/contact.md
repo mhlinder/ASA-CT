@@ -16,4 +16,7 @@ title: Contact
   (Wesleyan)
 * [Henry Linder](mailto:m.henry.linder@uconn.edu), Student
   Representative (UConn)
+  
+For technical inquiries, please contact our
+webmaster, [Henry](mailt:m.henry.linder).
 
