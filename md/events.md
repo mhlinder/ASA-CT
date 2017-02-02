@@ -10,6 +10,8 @@ The ASA CT chapter hosts several events, including
 * K-12 poster competition
 * Undergraduate DataFest
 
+-----
+
 # Past Events
 
 ## Miniconference 2016
