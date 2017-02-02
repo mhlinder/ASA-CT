@@ -41,3 +41,29 @@ li, ul ul {
     padding-left: 50px;
     padding-right: 50px;
 }
+
+ol {
+    counter-reset: foo;
+    display: table;
+}
+ol > li {
+    counter-increment: foo;
+    display: table-row;
+    list-style: none;
+}
+
+ol > li::before {
+    content: counter(foo) ".";
+    display: table-cell; /* aha! */
+    text-align: right;
+    padding-right: .3em;
+}
+
+ul > li {
+    display: table-row;
+}
+ul > li::before {
+    content: "○\00a0";
+    display: table-cell;
+    text-align: left;
+}
