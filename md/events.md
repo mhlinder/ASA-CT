@@ -14,16 +14,9 @@ The ASA CT chapter hosts several events, including
 
 # Past Events
 
-## Poster competition 2017
-
-Photos of the winning posters are available [here](media/Posterwinners.zip).
-
-Photos of the judgin can be found [here](media/PosterJudging.zip).
-
-## Miniconference 2017
-
-Photos from the miniconference can be
-downloaded [here](media/Miniconference.zip).
+* **2017**
+    * [Poster competition](posters17.html)
+    * [Miniconference](miniconference17.html)
 
 ## Miniconference 2016
 
