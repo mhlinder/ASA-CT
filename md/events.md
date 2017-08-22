@@ -15,10 +15,30 @@ The ASA CT chapter hosts several events, including
 # Past Events
 
 * **2017**
-    * [Poster competition](posters17.html)
-    * [Miniconference](miniconference17.html)
+    * [Poster competition](#poster17)
+    * [Miniconference](#mc17)
+* **2016**
+    * [Miniconference](#mc16)
+    
+-----
+    
+## 2017 { #y2017 }
 
-## Miniconference 2016
+### Poster Competition { #poster17 }
+
+A list of winners and pictures of the winning posters are
+available [here](posters17.html).
+
+### Miniconference { #mc17 }
+
+Photos of the miniconference are
+available [here](miniconference17.html).
+
+-----
+
+## 2016 { #y2016 }
+
+### Miniconference { #mc16 }
 
 On March 31, 2016, we hosted the Fourteenth Annual American
 Statistical Association CT Chapter Miniconference, "Evidence
