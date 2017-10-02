@@ -10,6 +10,23 @@ The ASA CT chapter hosts several events, including
 * K-12 poster competition
 * Undergraduate DataFest
 
+## Short Course on Missing Data
+
+We are proud to host a short course in conjunction with the Wesleyan
+University Quantitative Analysis Center titled "Introduction to the
+Analysis of Incomplete Data". This will be a full-day course on
+November 18 (8:30am--5pm), presented by Dr. Ofer Harel. Lunch
+will be provided.
+
+The short course will take place at:
+
+222 Church Street Rm. 311<br />
+Middletown, CT 06459
+
+Further information is available in the
+[flyer](media/ShortCourseFlyer-F17.pdf). Registration is available
+[here](https://www.123signup.com/register?id=htndb).
+
 -----
 
 # Past Events

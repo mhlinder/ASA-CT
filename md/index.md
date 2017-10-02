@@ -13,6 +13,12 @@ with the field of Statistics.
 
 ### Announcements { style="text-align: center;" }
 
+#### October 2, 2017 { style="color: #FB3640;" }
+
+We are proud to host a short course on missing data on November
+18, 2017. More information is available on our [events](events.html)
+page.
+
 #### March 6, 2017 { style="color: #FB3640;" }
 
 The ASA CT Chapter will host the Fifteenth Annual Mini-Conference on

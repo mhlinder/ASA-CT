@@ -1,0 +1,14 @@
+
+*.zip
+*.jpg
+*.JPG
+
+# GIS
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.shp
+*.shp.xml
+*.shx
+
