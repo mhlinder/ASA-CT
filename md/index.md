@@ -13,6 +13,11 @@ with the field of Statistics.
 
 ### Announcements { style="text-align: center;" }
 
+#### October 10, 2017 { style="color: #FB3640;" }
+
+We are excited to offer a webinar on November 8, 2017. See our
+[events](events.html) for more details.
+
 #### October 2, 2017 { style="color: #FB3640;" }
 
 We are proud to host a short course on missing data on November

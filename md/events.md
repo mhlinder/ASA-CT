@@ -10,7 +10,23 @@ The ASA CT chapter hosts several events, including
 * K-12 poster competition
 * Undergraduate DataFest
 
-## Short Course on Missing Data
+## Webinar with BI (November 8, 2017)
+
+
+As part of a joint effort between the ASA CT Chapter and Boehringer
+Ingelheim Pharmaceuticals, we have been hosting a free academic
+webinar series. This fifth webinar, presented by Dr. Greg Ball (Merck)
+and Dr. William Wang (Merck), is titled "Blinded Ongoing Aggregate
+Safety Evaluation".
+
+The webinar will take place on November 8, 9--10 am EST. If you are
+interested in joining, please [email
+us](mailto:medecc.us@boehringer-ingelheim.com) by November 7 to
+receive the meeting invitation. 
+
+Further details are available in our [flyer](media/webinar-2017-11-08.pdf).
+
+## Short Course on Missing Data (November 18, 2017)
 
 We are proud to host a short course in conjunction with the Wesleyan
 University Quantitative Analysis Center titled "Introduction to the
@@ -34,6 +50,7 @@ Further information is available in the
 * **2017**
     * [Poster competition](#poster17)
     * [Miniconference](#mc17)
+    * [Webinars](#webinars17)
 * **2016**
     * [Miniconference](#mc16)
     
@@ -50,6 +67,24 @@ available [here](posters17.html).
 
 Photos of the miniconference are
 available [here](miniconference17.html).
+
+### Webinars { #webinars17 }
+
+1. On Tuesday, July 25, ASA CT and Boehringer-Ingelheim hosted the
+   webinar "[Bayesian Designs in Oncology Clinical
+   Trials](media/webinars/Webinar_series_flyer_-_1_-_Lili_Zhao.pdf)". Slides
+   are available [here](media/webinars/presentation-webinar-Lili_Zhao.pdf).
+2. On Thursday, August 17, 2017, ASA CT and Boehringer-Ingelheim
+   hosted the webinar "[How the ICH E9 addendum around estimands may
+   impact our clinical
+   trials](media/webinars/Webinar_series_flyer_-_2_-_Frank_Bretz.pdf)". Slides are
+   available [here](media/webinars/presentation-webinar-Frank_Bretz.pdf).
+3. On Monday, September 11, 2017, ASA CT and Boehringer-Ingelheim
+   hosted the webinar "[Impact of model complexity on operating
+   characteristics of adaptive dose-finding
+   methods](media/webinars/Webinar_series_flyer_-_3_-_Alexia_Iasonos_-_Nolan_Wages.pdf)". Slides
+   are available
+   [here](media/webinars/presentation-webinar-Alxia_and_Nolan.pdf).
 
 -----
 
