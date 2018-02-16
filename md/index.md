@@ -13,6 +13,32 @@ with the field of Statistics.
 
 ### Announcements { style="text-align: center;" }
 
+### February 7, 2018 { style="color: #FB3640;" }
+
+The CT ASA chapter will co-host a webinar on "Dose-escalation trials
+without monotonicity assumption: A weighted differential entropy
+approach" on February 27, 2018.
+
+For more details, see the [events](events.html) page.
+
+#### December 8, 2017 { style="color: #FB3640;" }
+
+The Connecticut chapter of the ASA is excited to announce our annual
+statistical [poster competition](events.html) for students in
+K--12.
+
+Submissions are due by April 6, 2018. See the [events](events.html)
+page for more details.
+
+#### November 10, 2017 { style="color: #FB3640;" }
+
+ASA CT and Boehringer-Ingelheim will offer a webinar on December
+6, 2017. Dr. Jing Wu will present a
+talk titled "[Assessing covariate effects using Jeffreys-type prior in
+the Cox model in the presence of a monotone partial
+likelihood](media/webinars/Webinar-series-flyer---6---Jing-Wu.pdf)."
+See our [events](events.html) for more details.
+
 #### October 10, 2017 { style="color: #FB3640;" }
 
 We are excited to offer a webinar on November 8, 2017. See our
