@@ -13,6 +13,12 @@ with the field of Statistics.
 
 ### Announcements { style="text-align: center;" }
 
+### April 10, 2018 { style="color: #FB3640;" }
+
+The CT ASA chapter will host a **miniconference** on **April 19,
+2018**, titled "Adaptive Design and Intervention with Application to
+Clinical Trials." See our [events](events.html) page for more details.
+
 ### February 7, 2018 { style="color: #FB3640;" }
 
 The CT ASA chapter will co-host a webinar on "Dose-escalation trials

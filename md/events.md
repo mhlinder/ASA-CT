@@ -4,6 +4,16 @@ title: Events
 
 # Upcoming Events
 
+## Mini-Conference on "Adaptive Design and Intervention with Application to Clinical Trials" (April 19, 2018)
+
+The ASA CT chapter will host a miniconference on April 19, 2018, on
+the topic "Adaptive Design and Intervention with Application to
+Clinical Trials."
+
+Registration is now
+[open](https://www.123signup.com/change?id=hbdkp). Further details can
+be found in our [flyer](media/Miniconference-Flyer-2018.docx).
+
 ## Statistical Poster Competition (Due April 6, 2018)
 
 * An open letter to the community announcing the competition is
@@ -85,7 +95,7 @@ Safety Evaluation".
 Further details are available in our
 [flyer](media/webinars/Webinar-series-flyer---5---Greg-Ball---William-Wang.pdf).
 
-Slides are available [here](presentation-webinar5-Greg Ball-and-William-Wang.pdf).
+Slides are available [here](presentation-webinar5-Greg-Ball-and-William-Wang.pdf).
 
 #### Monday, September 11, 2017
 
