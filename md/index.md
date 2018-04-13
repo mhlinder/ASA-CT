@@ -13,6 +13,14 @@ with the field of Statistics.
 
 ### Announcements { style="text-align: center;" }
 
+### April 13, 2018 { style="color: #FB3640;" }
+
+The CT ASA chapter will co-host a webinar title "A practical design
+for a dual-agent dose-escalation trial that incorporates
+pharmacokinetic data" on April 24, 2018.
+
+For more details, see the [webinar](webinars.html) page.
+
 ### April 10, 2018 { style="color: #FB3640;" }
 
 The CT ASA chapter will host a **miniconference** on **April 19,

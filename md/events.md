@@ -2,7 +2,22 @@
 title: Events
 ---
 
+For information about webinars the CT ASA chapter has hosted, see our [webinar](webinars.html) page.
+
 # Upcoming Events
+
+## Webinar: "A practical design for a dual-agent dose-escalation trial that incorporates pharmacokinetic data", Amy Cotterill (April 24, 2018)
+
+The American Statistical Association (Boston,
+Connecticut, Florida, New Jersey, Princeton/Trenton, and Washington
+chapters) and Boehringer Ingelheim Pharmaceuticals,
+Inc. (Biostatistics and Data Sciences Department), will hold the following webinar:
+ 
+* *Topic:* A practical design for a dual-agent dose-escalation trial that incorporates pharmacokinetic data
+* *Speaker:* Dr. Amy Cotterill, University of Birmingham, UK
+* [Abstract](media/webinars-asa-bi/Webinar-series-flyer---9---AmyCotterill.pdf)
+* *Date:* April 24th, 2018
+* *Time:* 9:00-10:00 EST (New York), including 10-minute Q&A
 
 ## Mini-Conference on "Adaptive Design and Intervention with Application to Clinical Trials" (April 19, 2018)
 
@@ -14,33 +29,12 @@ Registration is now
 [open](https://www.123signup.com/change?id=hbdkp). Further details can
 be found in our [flyer](media/Miniconference-Flyer-2018.docx).
 
-## Statistical Poster Competition (Due April 6, 2018)
-
-* An open letter to the community announcing the competition is
-  available [here](Poster-competition-email-2018.docx).
-* An information packet and submission form for the competition is
-  available [here](media/2018-Poster-Competition-Packet.pdf).
-  
-## Webinar on "Dose-escalation trials without monotonicity assumption: A weighted differential entropy approach" (February 27, 2018)
-
-The American Statistical Association (Boston, Connecticut, Florida,
-New Jersey, Princeton/Trenton, and Washington chapters) and Boehringer
-Ingelheim Pharmaceuticals, Inc. (Biostatistics and Data Sciences
-Department), will offer the following webinar on February 27, 2018:
- 
-* *Topic:* "Dose-escalation trials without monotonicity assumption: A
-  weighted differential entropy approach"
-* **Speaker:** Dr. Thomas Jaki, Lancaster University, UK
-* **Abstract:** [View abstract](media/Webinar-series-flyer-7-Thomas-Jaki.pdf)
-* **Date:** February 27th , 2018
-* **Time**:  9:00-10:00 EST (New York), including 10-minute Q&A
-
-Instructions to access the webinar are available [here](media/Skype-Instructions.docx).
-
 -----
 
 # Past Events
 
+* **2018**
+    * [Poster competition](#poster18)
 * **2017**
     * [Poster competition](#poster17)
     * [Miniconference](#mc17)
@@ -50,6 +44,15 @@ Instructions to access the webinar are available [here](media/Skype-Instructions
     * [Miniconference](#mc16)
     
 -----
+
+## 2018 { #y2018 }
+
+### Statistical Poster Competition (April 6, 2018) { #poster18 }
+
+* An open letter to the community announcing the competition is
+  available [here](Poster-competition-email-2018.docx).
+* An information packet and submission form for the competition is
+  available [here](media/2018-Poster-Competition-Packet.pdf).
     
 ## 2017 { #y2017 }
 
@@ -95,7 +98,7 @@ Safety Evaluation".
 Further details are available in our
 [flyer](media/webinars/Webinar-series-flyer---5---Greg-Ball---William-Wang.pdf).
 
-Slides are available [here](presentation-webinar5-Greg-Ball-and-William-Wang.pdf).
+Slides are available [here](media/webinars/presentation-webinar5-Greg-Ball-and-William-Wang.pdf).
 
 #### Monday, September 11, 2017
 
