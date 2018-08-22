@@ -29,6 +29,8 @@ title: Webinars
 * "[A practical design for a dual-agent dose-escalation trial that
   incorporates pharmacokinetic data](#webinar9)", Dr. Amy Cotterill
   (April 24th, 2018)
+* "[The Future is Now, but Where Should We Focus?](#webinar11)",
+  Dr. Haoda Fu (July 12th, 2018)
 
 ## ASA-BI Statistics Webinar Series # 1 { #webinar1 }
 
@@ -101,3 +103,11 @@ title: Webinars
 * [Abstract](media/webinars-asa-bi/Webinar-series-flyer---9---AmyCotterill.pdf)
 * *Date:* April 24th, 2018
 * *Time:* 9:00-10:00 EST (New York), including 10-minute Q&A
+
+## ASA-BI Statistics Webinar Series # 11 { #webinar11 }
+* *Topic:* The Future is Now, but Where We Should Focus
+* *Speaker:* Dr. Haoda Fu,  Research Advisor at Eli Lilly and Company and Adjunct Professor in Biostatistics at Indiana University School of Medicine
+* [Abstract](media/webinars-asa-bi/Webinar-series-flyer---11---HaodaFu.pdf)
+* *Date:* July 12th, 2018
+* *Time:* 9:00-10:00 EST (New York), including 10-minute Q&A
+

@@ -19,21 +19,12 @@ Inc. (Biostatistics and Data Sciences Department), will hold the following webin
 * *Date:* April 24th, 2018
 * *Time:* 9:00-10:00 EST (New York), including 10-minute Q&A
 
-## Mini-Conference on "Adaptive Design and Intervention with Application to Clinical Trials" (April 19, 2018)
-
-The ASA CT chapter will host a miniconference on April 19, 2018, on
-the topic "Adaptive Design and Intervention with Application to
-Clinical Trials."
-
-Registration is now
-[open](https://www.123signup.com/change?id=hbdkp). Further details can
-be found in our [flyer](media/Miniconference-Flyer-2018.docx).
-
 -----
 
 # Past Events
 
 * **2018**
+    * [Miniconference](#mc18)
     * [Poster competition](#poster18)
 * **2017**
     * [Poster competition](#poster17)
@@ -46,6 +37,22 @@ be found in our [flyer](media/Miniconference-Flyer-2018.docx).
 -----
 
 ## 2018 { #y2018 }
+
+### Miniconference (April 19, 2018) { #mc18 }
+
+The ASA CT hosted a miniconference on April 19, 2018, on the topic of
+"Adaptive Design and Intervention with Application to Clinical
+Trials."
+
+Information about the conference is available
+[here](media/Miniconference-Flyer-2018.docx). Links to slides are
+listed below.
+
+
+* Dr. Ken Cheung: "[Optimality benchmark for planning and evaluating dose finding designs](media/Miniconference18/cheung_benchmark.pptx)"
+* Dr. Gheorghe Doros: "[Clinical Trial Design: Bayesian Approaches With Informative Priors and Adaptive Randomization for Time to Event Data - Methodology and Available Software](media/Miniconference18/Doros-PresentApr2018.pdf)"
+* Dr. Brian Hobbs: "[Trial design in the presence of non-exchangeable subpopulations](media/Miniconference18/Hobbs_UConn-ASA2.pdf)"
+* Dr. David Vock: "[Getting SMART about Developing Adaptive Intervention Strategies](media/Miniconference18/Vock_AIS_SMART_ASA_CT.pptx)"
 
 ### Statistical Poster Competition (April 6, 2018) { #poster18 }
 
